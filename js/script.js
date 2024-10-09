@@ -126,6 +126,15 @@ const edu=`
 const work=`
 <h2 class="abouth2">WORK EXPERIENCE</h2>
 <p class="content">
+Company: <span>Intone Networks Inc.</span><br>
+Location: <span>New Jersey</span><br>
+Position: <span>Software Engineer</span><br>
+Description: <span>Developed front end pages using HTML, CSS, Angular 2.0.<span><br>
+<span>Maintain web pages using HTML5, CSS, JS, JQuery, Java, J2EE and also responsible for designing of web pages using AJAX and XML.<span><br>
+<span>Involved in requirement gathering and analysis of the client and flow of application and application Framework.<span><br>
+<span>Working with NoSQL to store, retreive, update and manage all details Ethernet provisioning and customer order tracking </span>
+</p>
+<p class="content">
 Company: <span>WNS</span><br>
 Location: <span>Mumbai, India</span><br>
 Position: <span>Associate consultant</span><br>
